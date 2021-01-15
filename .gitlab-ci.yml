@@ -16,7 +16,7 @@ test:
     paths:
     - test
   except:
-  - master
+  - gh-pages
 
 pages:
   stage: deploy
@@ -26,4 +26,4 @@ pages:
     paths:
     - public
   only:
-  - master
+  - gh-pages
