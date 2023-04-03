@@ -1,10 +1,10 @@
 # Site settings
 title:       ATOP
 # email:       hello@saikiransripada.com
-author:      atop.run
+author:      atop
 description: "远方启于足下"
-baseurl:     ""
-url:         "https://atop.run"
+baseurl:     "/atop"
+url:         "https://note4.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
 #  - about.md
